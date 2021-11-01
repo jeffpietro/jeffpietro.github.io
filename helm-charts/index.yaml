@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  project-unity:
+  - apiVersion: v1
+    created: "2021-11-01T12:13:43.778833822-07:00"
+    description: A generated Helm Chart for docker-compose from Skippbox Kompose
+    digest: e74368bd78bcd4d43af2cd4884a6492ddac673bb50574b480ebf5c68feff8542
+    keywords:
+    - project-unity
+    name: project-unity
+    urls:
+    - https://jeffpietro.github.io/helm-charts/project-unity-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-11-01T12:13:43.77801776-07:00"
