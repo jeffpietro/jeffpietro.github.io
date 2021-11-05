@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  project-color:
+  - apiVersion: v1
+    created: "2021-11-05T10:49:30.508662605-07:00"
+    description: A generated Helm Chart
+    digest: b2a03031184bbdd23ef4782dc862a0ec0cc86e7d483934f0585cb8419e582523
+    keywords:
+    - color
+    name: project-color
+    urls:
+    - https://jeffpietro.github.io/color-charts/project-color-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-11-05T10:49:30.508247538-07:00"
