@@ -2,7 +2,17 @@ apiVersion: v1
 entries:
   project-color:
   - apiVersion: v1
-    created: "2021-11-08T09:00:07.529219992-07:00"
+    created: "2021-11-08T11:49:12.530390978-07:00"
+    description: A generated Helm Chart
+    digest: 2d3cda95d55836259c6cd9044eee5086ddd39ee2fdd3b304ad4f66eb540d779e
+    keywords:
+    - color
+    name: project-color
+    urls:
+    - https://jeffpietro.github.io/color-charts/project-color-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    created: "2021-11-08T11:49:12.529868463-07:00"
     description: A generated Helm Chart
     digest: b63a81e734078238990b86ab1a1bd19edf218ee3a26f5865a7b52d6730b2f34b
     keywords:
@@ -12,7 +22,7 @@ entries:
     - https://jeffpietro.github.io/color-charts/project-color-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: "2021-11-08T09:00:07.528774556-07:00"
+    created: "2021-11-08T11:49:12.529412287-07:00"
     description: A generated Helm Chart
     digest: b2a03031184bbdd23ef4782dc862a0ec0cc86e7d483934f0585cb8419e582523
     keywords:
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://jeffpietro.github.io/color-charts/project-color-0.0.1.tgz
     version: 0.0.1
-generated: "2021-11-08T09:00:07.528063513-07:00"
+generated: "2021-11-08T11:49:12.528716124-07:00"
