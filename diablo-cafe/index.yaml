@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  diablo-cafe:
+  - apiVersion: v1
+    created: "2021-12-02T11:39:45.794839365-07:00"
+    description: The Penguin Edge / HELLA Camera Helm chart for Kubernetes
+    digest: c69b658ba265fe70b8f63723f13fa513c6bdaad572f4ca9ab70097b8cf18bdfe
+    icon: https://www.penguincomputing.com/wp-content/uploads/2018/10/penguin-computing-web-logo-with-smart-2.png
+    name: diablo-cafe
+    urls:
+    - https://jeffpietro.github.io/diablo-cafe/diablo-cafe-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-12-02T11:39:45.793990807-07:00"
